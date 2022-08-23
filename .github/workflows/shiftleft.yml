@@ -1,5 +1,6 @@
 # This workflow integrates ShiftLeft with GitHub
 # Visit https://docs.shiftleft.io for help
+#adding commments to kick off a scan
 name: Analyze with ShiftLeft
 
 on:
